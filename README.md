@@ -38,5 +38,5 @@
 
 ### 📫 Как со мной связаться:
 
-* 📱 **Telegram:** [@ВАШ_НИК_ТГ](https://t.me)
-* 📧 **Email:** `your_email@example.com`
+* 📱 **Telegram:** [@Ya_yebanat]
+*
