@@ -15,17 +15,11 @@
 
 ### 🛠️ Стек технологий и инструменты:
 <p align="left">
-  <!-- JavaScript -->
   <img src="https://shields.io" alt="JavaScript" />
-  <!-- TypeScript -->
   <img src="https://shields.io" alt="TypeScript" />
-  <!-- React -->
   <img src="https://shields.io" alt="React" />
-  <!-- Node.js -->
   <img src="https://shields.io" alt="NodeJS" />
-  <!-- Python -->
   <img src="https://shields.io" alt="Python" />
-  <!-- Git -->
   <img src="https://shields.io" alt="Git" />
 </p>
 
