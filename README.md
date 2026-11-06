@@ -1,49 +1,42 @@
 # Привет! Я — Разработчик 👋 
 
-<p align="center">
-  <img src="https://komarev.com" alt="Просмотры профиля" />
-</p>
+---
 
 ### 💻 Обо мне:
 Я создаю интересные проекты и постоянно изучаю новые технологии. Сейчас я сфокусирован на улучшении своих навыков и поиске новых классных задач.
 
-- 🚀 Изучаю: **Advanced JavaScript, TypeScript & Архитектуру ПО**
-- 🤝 Готов к коллаборациям в: **Open Source проектах**
-- 🎯 Моя цель: **Создавать полезный и чистый код**
+* 🚀 Изучаю: **Advanced JavaScript, TypeScript & Архитектуру ПО**
+* 🤝 Готов к коллаборациям в: **Open Source проектах**
+* 🎯 Моя цель: **Создавать полезный и чистый код**
 
 ---
 
 ### 🛠️ Стек технологий и инструменты:
-<p align="left">
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="TypeScript" />
-  <img src="https://shields.io" alt="React" />
-  <img src="https://shields.io" alt="NodeJS" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Git" />
-</p>
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>HTML/CSS</code></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks</b></td>
+    <td><code>React</code> <code>Node.js</code> <code>Express</code></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><code>Git & GitHub</code> <code>VS Code</code> <code>Docker</code></td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Моя GitHub Статистика:
+### 📊 Моя активность:
 
-<p align="center">
-  <img height="180em" src="https://vercel.app" alt="Статистика GitHub" />
-  <img height="180em" src="https://vercel.app" alt="Используемые языки" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" />
-</p>
+Для просмотра актуальной статистики, истории коммитов и выполненных проектов перейдите во вкладку [**Repositories**](https://github.com) или посмотрите историю активности (Contribution Activity) в нижней части этой страницы.
 
 ---
 
 ### 📫 Как со мной связаться:
-<p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram" />
-  </a>
-  <a href="mailto:your_email@example.com" target="_blank">
-    <img src="https://shields.io" alt="Email" />
-  </a>
-</p>
+
+* 📱 **Telegram:** [@ВАШ_НИК_ТГ](https://t.me)
+* 📧 **Email:** `your_email@example.com`
