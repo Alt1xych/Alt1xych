@@ -9,34 +9,20 @@
 * 🤝 Готов к коллаборациям в: **Open Source проектах**
 * 🎯 Моя цель: **Создавать полезный и чистый код**
 
----
+<hr />
 
-### 🛠️ Стек технологий и инструменты:
+<!-- Блок Языки и инструменты -->
+<h3>Languages and tools</h3>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td><code>JavaScript</code> <code>TypeScript</code> <code>Python</code> <code>HTML/CSS</code></td>
-  </tr>
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td><code>React</code> <code>Node.js</code> <code>Express</code></td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><code>Git & GitHub</code> <code>VS Code</code> <code>Docker</code></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,ts,py,git,github,postgres" alt="Skills" />
+</p>
 
----
+<hr />
 
-### 📊 Моя активность:
 
-Для просмотра актуальной статистики, истории коммитов и выполненных проектов перейдите во вкладку [**Repositories**](https://github.com) или посмотрите историю активности (Contribution Activity) в нижней части этой страницы.
+* 📱 **Telegram:** [@Ya_yebanat](https://t.me/Ya_yebanat)
+* 📧 **Email:** `ghnagitttt@example.com`
 
----
 
-### 📫 Как со мной связаться:
 
-* 📱 **Telegram:** [@Ya_yebanat]
-*
